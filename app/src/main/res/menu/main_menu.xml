@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="New Group" android:id="@+id/newgroup"/>
+    <item android:title="Apna_app web" android:id="@+id/a"/>
+    <item android:title="Starred message" android:id="@+id/b"/>
+    <item android:title="Settings" android:id="@+id/settings"/>
+</menu>
